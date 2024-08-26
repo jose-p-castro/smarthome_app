@@ -77,3 +77,4 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+/comandoPitest.txt
